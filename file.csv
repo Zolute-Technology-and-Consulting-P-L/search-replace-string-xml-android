@@ -1,0 +1,137 @@
+JainTraders,जैन ट्रेडर्स
+Open navigation drawer,नेविगेशन दराज खोलें
+Close navigation drawer,नेविगेशन दराज बंद करें
+Open,खुला है/ खोलें
+Close,बंद करे
+Settings,सेटिंग
+Sign in,साइन इन करें
+"Token retrieved and sent to server! 
+You can now use gcmsender to send downstream messages to this app.",टोकन पुनः प्राप्त किया जाता है और सर्वर को भेजा जाता है! अब आप इस ऐप पर डाउनस्ट्रीम संदेश भेजने के लिए gcmsender का उपयोग कर सकते हैं।
+Generating InstanceID token...,इंस्टेंसआईडी टोकन जेनरेट किया जा रहा है
+"An error occurred while either fetching the InstanceID token,
+sending the fetched token to the server or subscribing to the PubSub topic.
+Please try running the sample again.","इंस्टेंस आईडी टोकन प्राप्त करते समय, सर्वर पर लाए गए टोकन को भेजते समय या PubSub विषय की सदस्यता लेते समय एक त्रुटि उत्पन्न हुई। कृपया नमूना फिर से चलाने का प्रयास करें।"
+Order,ऑर्डर
+Total Item,कुल आइटम
+Total Prize,कुल रकम
+Change Password,पासवर्ड बदलें
+Please enter OTP sent on your mobile,कृपया अपने मोबाइल पर भेजा गया ओटीपी दर्ज करें
+Resend OTP,ओटीपी पुनः भेजें
+Forgot Password,पासवर्ड भूल गए?
+Send OTP,OTP भेजें
+Please Enter Mobile Number,कृपया मोबाइल नंबर दर्ज करें
+Assigned Retailers,असाइन किए गए रिटेलर
+Place Order,ऑर्डर करें
+Send,भेजें
+Write Your Feedback Here,अपनी प्रतिक्रिया यहाँ लिखें
+Attach Photo,फोटो संलग्न करें
+Get Location,लोकेशन प्राप्त करें
+Update Info,जानकारी अपडेट करें
+Name of Retailer,रिटेलर का नाम 
+Owner Name,मालिक का नाम
+Date Of Birth,जन्म की तारीख
+Marriage anniversary,विवाह की वर्षगांठ
+Address,पता
+Tin no,टिन नंबर
+Mobile Number,मोबाइल नंबर
+Alternate Number,दूसरा नंबर
+City,शहर
+Pin Code,पिन कोड
+Email Id (If any),ईमेल आईडी (यदि कोई हो)
+"Search for Products,Brands and more","उत्पाद, ब्रांड और बहुत कुछ खोजें"
+Sign In,साइन इन करें
+Password,पासवर्ड
+Continue,जारी रखें
+New User,नया यूज़र
+Register,रजिस्टर करें
+Update Record,रिकॉर्ड अपडेट करें
+Pack Of,का पैक
+Bags,बैग
+Edit,एडिट करें
+Exit,बाहर निकलें
+Add Now,अभी जोड़ें
+Do you want to Cancel last order?,क्या आप पिछले ऑर्डर को रद्द करना चाहते हैं?
+No,नहीं
+India Gate Basmati Rice,इंडिया गेट बासमती चावल
+10/kg,10/किलो
+Total Amt,कुल राशि
+Edit Order,ऑर्डर एडिट करें
+Price/quintal,कीमत/क्विंटल
+Final/quintal,कुल/क्विंटल
+Add Order,ऑर्डर जोड़ें
+Save Order,ऑर्डर सुरक्षित करें
+Product Name,उत्पाद का नाम
+5kg,5किलो
+Save,सुरक्षित करें
+Remind me after,मुझे याद दिलाएं
+Days,दिनों के बाद
+Kasturi and Mahi Sugandha basmati Rice,कस्तूरी और माही सुगंधा बासमती चावल
+gopal,गोपाल
+Are you sure you want to exit,क्या आप बाहर निकलना चाहते हैं
+gopal text,
+Synchronize Data,डेटा सिंक्रनाइज़ करें
+Logout,लॉग आउट
+Categories,श्रेणियाँ
+Orders,ऑर्डर
+App Account,ऐप खाता
+E-Wallets,ई-वॉलेट
+Offers,ऑफर
+Add New Retailer,नया विक्रेता जोड़ें
+Search...,खोजें
+Today\'s Task,आज का काम
+View,व्यू 
+Everyday Departmental Store,एव्रीडे डिपार्टमेंटल स्टोर
+Punch New Order, नया ऑर्डर पंच करें
+Update Stock Position,स्टॉक की स्थिति अपडेट करें
+Set Reminder,रिमाइन्डर् सेट करें
+Trends,ट्रेन्ड् 
+Outstanding Amount,बकाया राशि
+Update Retailer,रिटेलर अपडेट करें
+Retailer Feedback,रिटेलर फीडबॅक
+Last Order,पिछला ऑर्डर
+ORDER ID,ऑर्डर आईडी
+Total Amount,कुल राशि
+Edit Last Order,पिछला ऑर्डर एडिट करें
+Cancel Last Order,पिछला ऑर्डर रद्द करें
+Are you sure you want to Share location,क्या आप वाकई स्थान शेयर करना चाहते हैं
+GPS is not enabled. Do you want to go to settings menu?,जीपीएस सक्षम नहीं है। क्या आप सेटिंग मेनू में जाना चाहते हैं?
+Setting,सेटिंग
+Locations,स्थान
+Do you want to exit?,क्या आप बाहर निकलना चाहते हैं
+Yes,हाँ
+Please add an item,कृपया एक आइटम जोड़ें
+No record found,कोई रिकॉर्ड नहीं मिला
+Ok,ठीक है
+Notifications,सूचनाएं
+Clear All,सभी हटाएं
+Do You Want to Pay?,क्या आप भुगतान करना चाहते हैं?
+Due Amount,बकाया राशि
+0 RS,0 रुपये
+Pay with different mode at a time,एक बार में अलग-अलग मोड से भुगतान करें
+By Cheque,चेक द्वारा
+By Cash,नकद द्वारा
+By RTGS,RTGS . द्वारा
+Total,कुल
+Rs,रुपये
+Balance,बकाया जमा
+Calculate,हिसाब लगाए
+Submit,भेजें
+lal quilla Basmati Rice,लाल किला बासमती चावल
+Weight,वजन
+ADD,जोड़ें
+Place the final order,अंतिम ऑर्डर दें
+Items,आइटम
+Complete Order,पूरा ऑर्डर 
+Date,तारीख
+DD/MM/YYYY,
+Time,समय
+Set Reminder For,रिमाइन्डर् सेट करें
+Sync Data,डेटा सिंक्रनाइज़ करें
+Call to every departmental store,हर डिपार्टमेंटल स्टोर पर कॉल करें
+Average orders/Months,औसत ऑर्डर/महीने
+Average Amount,औसत राशि
+Last Order Date,अंतिम ऑर्डर की  तिथि
+Top 5 Products,सर्वोच्च 5 उत्पाद
+Average Time/Order,औसत समय/ऑर्डर
+Are You On Visit?,क्या आप विसिट पर हैं?
+Select Language,भाषा चुनें
